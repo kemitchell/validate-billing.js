@@ -1,4 +1,4 @@
-Validate legal project billing objects
+Validate legal project billing entries
 
 ```BASH
 npm install @kemitchell/validate-billing
