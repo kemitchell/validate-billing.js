@@ -1,10 +1,10 @@
 Validate legal project billing entries
 
-```BASH
+```bash
 npm install @kemitchell/validate-billing
 ```
 
-```JavaScript
+```javascript
 var validate = require('@kemitchell/validate-billing')
 
 var result = validate(require('./billing-entry.json'))
