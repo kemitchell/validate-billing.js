@@ -1,6 +1,6 @@
 {
   "name": "@kemitchell/validate-billing",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "validate legal project billing entries",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (http://kemitchell.com/)",
   "repository": "kemitchell/validate-billing.js",
