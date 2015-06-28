@@ -1,0 +1,12 @@
+{
+  "name": "@kemitchell/validate-billing",
+  "version": "0.0.0",
+  "description": "validate legal project billing entries",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (http://kemitchell.com/)",
+  "repository": "kemitchell/validate-billing.js",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@kemitchell/billing-schema": "*",
+    "tv4": "1.x"
+  }
+}
