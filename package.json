@@ -1,6 +1,6 @@
 {
   "name": "@kemitchell/validate-billing",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "validate legal project billing entries",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (http://kemitchell.com/)",
   "repository": "kemitchell/validate-billing.js",
@@ -8,5 +8,6 @@
   "dependencies": {
     "@kemitchell/billing-schema": "0.3.x",
     "tv4": "1.x"
-  }
+  },
+  "scripts": {}
 }
