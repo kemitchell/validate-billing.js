@@ -6,7 +6,7 @@
   "repository": "kemitchell/validate-billing.js",
   "license": "Apache-2.0",
   "dependencies": {
-    "@kemitchell/billing-schema": "*",
+    "@kemitchell/billing-schema": "0.2.x",
     "tv4": "1.x"
   },
   "scripts": {}
