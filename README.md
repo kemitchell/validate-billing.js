@@ -1,6 +1,6 @@
 Validate legal project billing entries
 
-```bash
+```shellsession
 npm install @kemitchell/validate-billing
 ```
 
