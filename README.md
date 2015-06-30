@@ -1,7 +1,7 @@
 Validate legal project billing entries
 
 ```shellsession
-npm install @kemitchell/validate-billing
+$ npm install @kemitchell/validate-billing
 ```
 
 ```javascript
